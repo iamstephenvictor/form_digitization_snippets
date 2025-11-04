@@ -1,4 +1,4 @@
-// using select2 library to add multiple dropdown functionality in a single text input question and store in embedded data variables
+// using select2 library to add multiple dropdown functionality in a single text input question and store in embedded data
 
 Qualtrics.SurveyEngine.addOnReady(function() {
     // Define the date arrays with display and value pairs
